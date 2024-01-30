@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Bluesadsilk
 - 👀 I’m interested in learn DAM.
-- 🌱 I’m currently learning Bash, JAVA, Python, JS, Html, Css and SQL.
-- 💞️ I’m looking to collaborate on nothing.
-- 📫 How to reach me @bluekorpse on Instagram
+- 🌱 I’m currently learning _JAVA_, _Python_, _JS_, _Html_, _React_, _MySQL_.
+- 💞️ I’m looking to collaborate on any interesting porjects.
+- 📫 How to reach me **@bluekorpse** on Instagram
 
 <!---
 Bluesadsilk/Bluesadsilk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
