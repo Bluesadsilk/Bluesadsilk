@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Bluesadsilk
-- 👀 I’m interested in learn DAM.
+- 👋 Hi, I’m **@Bluesadsilk**
+- 👀 I’m interested in learn _DAM_.
 - 🌱 I’m currently learning _JAVA_, _Python_, _JS_, _Html_, _React_, _MySQL_.
 - 💞️ I’m looking to collaborate on any interesting porjects.
 - 📫 How to reach me **@bluekorpse** on Instagram
